@@ -20,7 +20,7 @@
 
 - JS 基础学习 ECMAScript 基础语法为后面作铺垫， Web APIs 是 JS 的应用，大量使用 JS 基础语法做交互效果
 
-![](../images/2164f8d51be25f855461f1f14127612d84479980f4158df6c4bd4430422492ba.png)
+![](./images/2164f8d51be25f855461f1f14127612d84479980f4158df6c4bd4430422492ba.png)
 
 ## 1.2 API 和 Web API
 
